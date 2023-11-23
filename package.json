@@ -1,9 +1,9 @@
 {
-  "name": "vite-project",
+  "name": "test-github-pages",
   "version": "0.0.0",
   "packageManager": "pnpm@8.7.1",
   "private": true,
-  "homepage": "https://MelnikovBogdan.github.io/test-github-pages/",
+  "homepage": "https://melnikovbogdan.github.io/test-github-pages/",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
